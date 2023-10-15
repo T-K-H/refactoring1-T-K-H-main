@@ -1,0 +1,7 @@
+RadianDegree.java
+degreeToRadianメソッドおよびradianToDegreeメソッド内で、ハードコードされたπの値の代わりにMath.PIを使用してください。
+
+Judge.java
+gradeメソッド内で、条件文をswitch文に変更すると、コードの可読性が向上します。
+
+mainメソッド内で、異なるJudgeオブジェクトに対してさらに多くのテストケースを追加すると、テストのカバレッジが向上します。
